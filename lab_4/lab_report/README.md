@@ -19,4 +19,4 @@
 |9|$$ \sum_{k=0}^{n+2} \frac{-1^{k+2}}{(3k+1)!} * {(\frac{x}{10})}^{2k+3} $$|
 |10|$$ \prod_{k=1}^{n+2} (1 + \frac{sin(2kx)}{(k+1)!}) $$|
 
-![part1](/lab4part1.png)
+![part1](/lab_4/lab_report/lab4part1.png)
